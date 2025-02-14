@@ -3,7 +3,7 @@ The program downloads a list of free HTTP/HTTPS from 14 sites. It is also possib
 
 ## Installation
 ```bash
-git clone https://github.com/prt-SSS/proxsiesCheker.git
+git clone https://github.com/facelessAlien/proxsiesCheker.git
 cd proxsiesCheker
 windows: python -m venv venv | linux python3 -m venv venv
 windows: .\venv\Scripts\activate | linux: source venv/bin/activate
